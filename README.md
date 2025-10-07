@@ -14,7 +14,7 @@ Currently pursuing **B.Tech in Information Technology** from **GL Bajaj Institut
 I love combining creativity with logic to build impactful tech solutions.  
 From crafting front-end experiences to integrating AI workflows — I enjoy every step of development!
 
-- 🚀 Currently working on: **SnazzyCart (React e-commerce)** & **AI Finance Manager**
+- 🚀 Currently working on: **SnazzyCart (React e-commerce)** & **ResiVox
 - 💡 Exploring: **LangChain, APIs, and Voice AI integrations**
 - 💬 Ask me about: **Java, DSA, React.js, Streamlit, and Firebase**
 - 📫 Reach me at: **[vishakhamishra24062005@gmail.com](mailto:vishakhamishra24062005@gmail.com)**
