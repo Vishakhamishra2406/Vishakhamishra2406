@@ -18,7 +18,7 @@ From crafting front-end experiences to integrating AI workflows — I enjoy ever
 - 💡 Exploring: **LangChain, APIs, and Voice AI integrations**
 - 💬 Ask me about: **Java, DSA, React.js, Streamlit, and Firebase**
 - 📫 Reach me at: **[vishakhamishra24062005@gmail.com](mailto:vishakhamishra24062005@gmail.com)**
-- 💼 LinkedIn: [linkedin.com/in/vishakha-mishra](https://www.linkedin.com/in/vishakha-mishra)
+- 💼 LinkedIn: [[linkedin.com/in/vishakha-mishra](https://www.linkedin.com/in/mishravishakha1624/)]
 - 🧩 LeetCode: [leetcode.com/VishakhaM1624](https://leetcode.com/VishakhaM1624)
 
 ---
