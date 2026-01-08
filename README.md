@@ -7,16 +7,17 @@
 
 ---
 
-### 🧠 About Me
-I'm a **detail-oriented Software Developer** skilled in **Java, JavaScript, and Python**, with hands-on experience in **Generative AI**, **Voice AI**, **web development**, and **real-world product building**.  
-Currently pursuing **B.Tech in Information Technology** from **GL Bajaj Institute of Technology and Management, Greater Noida** (**CGPA: 8.03**).
+## 🧠 About Me
+I'm a **detail-oriented Software Developer** with strong skills in **Java, JavaScript, and Python**, and hands-on experience in **Generative AI**, **Voice AI**, and **modern web development**.  
 
-I love combining creativity with logic to build impactful tech solutions.  
-From crafting front-end experiences to integrating AI workflows — I enjoy every step of development!
+🎓 Currently pursuing **B.Tech in Information Technology** from  
+**G.L. Bajaj Institute of Technology and Management, Greater Noida** (**CGPA: 8.03**).
 
-- 🚀 Currently working on: **SnazzyCart (React e-commerce)** & **ResiVox**
-- 💡 Exploring: **LangChain, APIs, and Voice AI integrations**
-- 💬 Ask me about: **Java, DSA, React.js, Streamlit, Firebase**
+I enjoy building **real-world, scalable tech solutions** — from clean front-end interfaces to AI-powered workflows and voice-enabled systems.
+
+- 🚀 Currently working on: **ResiVox** (Voice-Enabled Community Manager)
+- 💡 Exploring: **LangChain, RAG pipelines, APIs, Voice AI**
+- 💬 Ask me about: **Java, DSA, React.js, Streamlit, GenAI**
 - 📫 Reach me at: **[vishakhamishra24062005@gmail.com](mailto:vishakhamishra24062005@gmail.com)**
 - 🌐 Portfolio: **[vishakhamishra2406.github.io/Portfolio_Website](https://vishakhamishra2406.github.io/Portfolio_Website/)**
 - 💼 LinkedIn: **[linkedin.com/in/mishraVishakha1624](https://www.linkedin.com/in/mishraVishakha1624/)**
@@ -24,75 +25,121 @@ From crafting front-end experiences to integrating AI workflows — I enjoy ever
 
 ---
 
-### ⚙️ Technical Skills
+## ⚙️ Technical Skills
 
-**Languages:** Java, JavaScript, Python, HTML, CSS  
-**Web Tech:** React.js, Vite, Tailwind CSS, Responsive Design  
-**Frameworks & Tools:** LangChain, Streamlit, Git, GitHub, VS Code, IntelliJ, Omnidim.io  
-**Databases:** MySQL, Firebase  
-**APIs & Libraries:** Google Gemini API, LeetCode API, Weather API  
-**Core CS:** DSA, DBMS, OOPs, Operating Systems  
+**Languages:**  
+Java, JavaScript, Python  
 
----
+**Web Technologies:**  
+HTML, CSS, React.js, CSS Flexbox, Responsive Design  
 
-### 💼 Projects
+**Frameworks & Tools:**  
+LangChain, Streamlit, Git, GitHub, VS Code, IntelliJ, Omnidim.io  
 
-#### 🧾 [AskMyPDF](https://github.com/Vishakhamishra2406/AskMyPDF3)
-> A **GenAI chatbot** that answers questions from uploaded PDFs using **LangChain** and **Google Gemini API**.  
-> Built with **Streamlit**, featuring intelligent document chunking and secure API handling.
+**Databases:**  
+MySQL, Firebase  
 
-#### 📊 [Leet-Metric Website](https://vishakhamishra2406.github.io/Leet-Metrics)
-> A **LeetCode analytics dashboard** that visualizes user stats in real-time using the **LeetCode API**.  
-> Designed with **HTML, CSS, and JavaScript** for an interactive and responsive experience.
+**APIs & Libraries:**  
+Google Gemini API, LeetCode API, FAISS, PyMuPDF, dotenv, Email.js  
 
-#### 🛒 [SnazzyCart](https://github.com/Vishakhamishra2406/SnazzyCart)
-> A modern **React-based e-commerce application** using **Vite** and **Context API**.  
-> Focused on fast performance, reusable UI components, and responsive design.
-
-#### 🌦️ [Weather Application](https://vishakhamishra2406.github.io/Weather-Application)
-> A dynamic web app showing real-time weather data using **WeatherAPI**.  
-> Implemented with **HTML, CSS, and JavaScript**, optimized for all devices.
+**CS Fundamentals:**  
+Data Structures & Algorithms, DBMS, OOPs, Operating Systems, Software Development Lifecycle  
 
 ---
 
-### 🏆 Achievements
+## 💼 Projects
 
-- 🧩 **LeetCode**
-  - ✅ **500+ problems solved**
-  - ⭐ Rating: **1650+**
-  - 🌍 **65+ contests attended**
+### 🏠 ResiVox — Voice-Enabled Virtual Community Manager  
+🔗 [GitHub Repository](https://github.com/Vishakhamishra2406/ResiVox)
+
+> A **voice-enabled AI system** that allows residents to raise and track service requests using natural speech.
+
+- Worked on the **AI and voice interaction layer**, integrating **Omnidim.io Voice AI**
+- Designed **conversational workflows** for complaint creation and tracking
+- Built and styled **frontend UI** for resident and admin dashboards
+- Collaborated with a **2-member team** to align AI workflows with backend APIs and real-world use cases
+
+**Tech Stack:** Omnidim.io, JavaScript, Web UI, APIs  
+
+---
+
+### 🧾 AskMyPDF — GenAI Document Question Answering  
+🔗 [GitHub Repository](https://github.com/Vishakhamishra2406/AskMyPDF3)
+
+> A **Generative AI chatbot** that enables users to query uploaded PDF documents using natural language.
+
+- Built a GenAI chatbot using **LangChain** and **Google Gemini API**
+- Implemented efficient **PDF chunking** with **PyMuPDF**
+- Designed an interactive and user-friendly interface using **Streamlit**
+
+**Tech Stack:** Python, Streamlit, LangChain, Google Gemini API, PyMuPDF  
+
+---
+
+### 📊 Leet-Metric Website — LeetCode Analytics Dashboard  
+🔗 [GitHub Repository](https://github.com/Vishakhamishra2406/Leet-Metrics)
+
+> A **responsive web dashboard** that visualizes real-time LeetCode user statistics.
+
+- Developed a real-time analytics dashboard using the **LeetCode API**
+- Visualized problem distribution by difficulty level
+- Designed a clean, user-friendly interface with modern frontend practices
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS, LeetCode API  
+
+---
+
+## 🏆 Achievements
+
+- 🧩 **LeetCode — Competitive Programming**
+  - Solved **500+ problems**
+  - Rating: **1650+**
+  - Ranked **Top 18% globally** across **72 contests**
   - 🔗 [LeetCode Profile](https://leetcode.com/VishakhaM1624)
 
-- 💻 **HackerRank Certifications**
+- 💻 **HackerRank — Certifications & Badges**
   - Java ⭐⭐⭐⭐ | SQL ⭐⭐⭐ | Python ⭐⭐  
+  - Certified in **Problem Solving, Java, SQL, Python**
   - 🔗 [HackerRank Profile](https://www.hackerrank.com/vishakhamishra21)
 
-- 🏅 **SheBuilds Hackathon 2025** — *Top 45 Finalist*  
-  - Built a **voice-enabled Virtual Customer Success Manager** using **Omnidim.io**
+- 🏅 **SheBuilds Hackathon 2025 — Top 45 Finalist**
+  - Selected from **500+ teams**
+  - Built a **voice-enabled AI solution** using Omnidim.io
 
-- 🥇 **Ideathon (Women’s Safety Project)** — *1st Prize Winner*  
-  - Proposed an **AI + IoT wearable gadget** for GPS tracking & emergency alerts
-
----
-
-### 💬 Leadership & Community
-
-- 👩‍💼 **Community Manager @ CodeX** — Mentored **30+ peers**, organized code sprints & hackathons  
-- 🎨 **Design & Media Team Member** — Created digital posters and managed event media
+- 🥇 **Ideathon (Women’s Safety Project) — 1st Prize Winner**
+  - Proposed an **AI + IoT wearable** for GPS tracking & emergency alerts
 
 ---
 
-### ✨ Fun Fact
+## 💬 Leadership & Community
+
+- 👩‍💼 **Community Manager — CodeX Community** (Jul 2024 – Present)  
+  - Led technical sessions and hackathons  
+  - Mentored **30+ juniors** and promoted open-source collaboration  
+
+- 🎨 **Design & Media Team — Upcoming Fest** (Aug 2023 – Jun 2024)  
+  - Designed event posters and managed social media outreach  
+
+---
+
+## ✨ Fun Fact
 > *“I turn ideas into code and coffee into energy ☕💻”*
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishakhamishra2406&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishakhamishra2406&theme=radical" />
 </p>
+
+---
+
+<p align="center">
+  <i>“Building today for a smarter tomorrow 🚀”</i>
+</p>
+
 
 ---
 
